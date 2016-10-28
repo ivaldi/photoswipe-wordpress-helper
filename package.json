@@ -1,0 +1,19 @@
+{
+  "name": "photoswipe-wordpress-helper",
+  "version": "1.0.0",
+  "description": "Photoswipe helper for WordPress galleries",
+  "main": "photoswipe-helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivaldi/photoswipe-wordpress-helper.git"
+  },
+  "author": "Houke de Kwant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivaldi/photoswipe-wordpress-helper/issues"
+  },
+  "homepage": "https://github.com/ivaldi/photoswipe-wordpress-helper#readme"
+}
