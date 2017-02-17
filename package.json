@@ -1,6 +1,6 @@
 {
   "name": "photoswipe-wordpress-helper",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Photoswipe helper for WordPress galleries",
   "main": "photoswipe-helper.js",
   "scripts": {
