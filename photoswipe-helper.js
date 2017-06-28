@@ -58,12 +58,6 @@ var ps = (function($){
 
     options = {
       index: index,
-      getThumbBoundsFn: function(index) {
-        var image = items[index].el.find('img'),
-          offset = image.offset();
-
-        return {x:offset.left, y:offset.top, w:image.width()};
-      },
       showHideOpacity: true,
       history: false
     };
